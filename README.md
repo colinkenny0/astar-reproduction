@@ -36,5 +36,4 @@ The Jupyter notebook runs the script and generates plots for path cost trends an
 All results are fully reproducible due to fixed random seeds.
 
 ## Reference
-Hart, P.E., Nilsson, N.J., & Raphael, B. (1968).
-_A Formal Basis for the Heuristic Determination of Minimum Cost Paths._
+Hart, P., Nilsson, N., & Raphael, B. (1968). _A Formal Basis for the Heuristic Determination of Minimum Cost Paths_. IEEE Transactions on Systems Science and Cybernetics.
