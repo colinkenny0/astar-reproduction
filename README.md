@@ -33,6 +33,8 @@ Heuristics:
 
 The Jupyter notebook runs the script and generates plots for path cost trends and node expansions.
 
+All results are fully reproducible due to fixed random seeds.
+
 ## Reference
 Hart, P.E., Nilsson, N.J., & Raphael, B. (1968).
 _A Formal Basis for the Heuristic Determination of Minimum Cost Paths._
