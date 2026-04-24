@@ -9,9 +9,9 @@ The study investigates how different heuristic configurations affect A*'s behavi
 
 ## Repository Structure
 
-a_star_experiments.py: main implementation and experiment runner
-analysis_and_plots.ipynb: Data analysis and visualization
-figures directory: contains outputs (charts) of analysis_and_plots.ipynb
+ - a_star_experiments.py: main implementation and experiment runner
+ - analysis_and_plots.ipynb: Data analysis and visualization
+ - figures directory: contains outputs (charts) of analysis_and_plots.ipynb
 
 ## How to Run
 
